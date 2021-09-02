@@ -279,6 +279,12 @@
           "fullName": "Şemsa D.",
           "job": "Major Chef",
           "image": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80"
+        },
+        {
+          "id": 5,
+          "fullName": "Thomas K.",
+          "job": "Chef de Partie",
+          "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80"
         }
     ],
     "testimonials": [
